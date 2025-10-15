@@ -1,4 +1,4 @@
-# ESP32_Blynk_IOT
+# ESP32_Thingsboard_IOT
 舊案原本用H牌mcu 控制設備，並把設備數據發送到Thingsboard Cloud, 新案打算做一些改變。  
 
 原因:  H牌mcu 僅是供基本範例程式，進階應用、IOT應用 需自行摸索 建立。  
