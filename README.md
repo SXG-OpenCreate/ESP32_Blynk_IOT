@@ -29,5 +29,5 @@ Blynk平台...先暫緩，變更研發方向 ESP32 To Thingsboard
 `    `我可以透選改這個device token方式 來拒絕接收數據。等把設備搞定了，再把device token 改回來原本的。   
 筆記2.使用 SSL/TLS 加密確實會讓每次上傳的數據量變大一些，這是加密通訊的正常現象 
 
-<img src="Files/f1.png" alt="照片" width="800" />  
-<img src="Files/f2.png" alt="照片" width="800" /> 
+<img src="Files/f1.png" alt="照片" width="500" />  
+<img src="Files/f2.png" alt="照片" width="500" /> 
